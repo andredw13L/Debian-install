@@ -26,7 +26,7 @@ apt install -y clang cmake curl fdisk gimp gzip man-db mesa-utils
 
 apt install -y slick-greeter libglu1-mesa xz-utils  file p7zip-full
 
-apt install -y  tldr micro sqlite3 sqlite3-doc sudo lxpolkit numlockx
+apt install -y  tldr micro sqlite3 sqlite3-doc sudo lxpolkit numlockx arandr
 
 
 systemctl start preload
