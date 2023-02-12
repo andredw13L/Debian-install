@@ -6,7 +6,7 @@ sudo apt install -y git wget curl man-db nano micro htop fd-find ranger cmatrix 
 
 sudo apt install -y clang gcc tldr sqlite3 sqlite3-doc docker.io lolcat bash-completion
 
-tldr update
+tldr --update
 
 
 xdg-user-dirs-update
